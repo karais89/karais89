@@ -9,17 +9,17 @@ Currently focusing on **clean architecture, DI frameworks, and gameplay systems*
 ## 🚀 Featured Projects
 
 *(Currently curating — more to come!)*  
-👉 Explore my [Portfolio Repos](https://github.com/search?q=user%3Ajihunheo+topic%3Aportfolio)
+👉 Explore my ⭐ [Portfolio](https://github.com/search?q=user:karais89+topic:portfolio)
 
 ---
 
 ## 📂 Repository Categories
 
-- 🎮 [Game Dev](https://github.com/search?q=user%3Ajihunheo+topic%3Agame-dev)  
-- 🛠️ [Tools](https://github.com/search?q=user%3Ajihunheo+topic%3Atool)  
-- 📖 [Study](https://github.com/search?q=user%3Ajihunheo+topic%3Astudy)  
-- ⚡ [Algorithms](https://github.com/search?q=user%3Ajihunheo+topic%3Aalgo)  
-- 🗂️ [Archive](https://github.com/search?q=user%3Ajihunheo+topic%3Aarchive)
+- 🎮 [Game Dev](https://github.com/search?q=user:karais89+topic:game-dev)
+- 🛠️ [Tools](https://github.com/search?q=user:karais89+topic:tool)
+- 📖 [Study](https://github.com/search?q=user:karais89+topic:study)
+- ⚡ [Algorithms](https://github.com/search?q=user:karais89+topic:algo)
+- 🗂️ [Archive](https://github.com/search?q=user:karais89+topic:archive)
 
 ---
 ⭐ *Pinned repos and topics are continuously updated as I refine my portfolio.*
